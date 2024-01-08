@@ -1,0 +1,8 @@
+.header{
+    background-image: url(/Images/Ellipse.png);
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 1/4;
+    transform: translateX(125%);
+}
